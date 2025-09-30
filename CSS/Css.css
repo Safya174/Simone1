@@ -109,7 +109,7 @@ h1::after{
 h2{
     font-size: 24px;
 }
-.layer{
+/*.layer{
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
@@ -122,7 +122,7 @@ h2{
 }
 .lago img{
     height: 40px;
-}
+}*/
  /*****Section2*****/
  #About{
    padding-top: 100px;
